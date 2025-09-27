@@ -10,7 +10,7 @@ internal class Program
         Console.WriteLine("* Спринт #1                                                               *");
         Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
         Console.WriteLine("* Задание #3                                                              *");
-        Console.WriteLine("* Вариант #8                                                             *");
+        Console.WriteLine("* Вариант #8                                                              *");
         Console.WriteLine("* Выполнила: Вегерина Виктория Вячеславовна | ИИПб-25-1                   *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
